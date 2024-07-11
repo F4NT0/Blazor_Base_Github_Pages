@@ -39,13 +39,15 @@ jobs:
         run: dotnet build -c Release --no-restore
       
       - name: Publish .NET
-        run: dotnet publish BlazorDeploy.csproj -c Release -o docs --no-logo
+        run: dotnet publish BlazorDeploy.csproj -c:Release -o docs --nologo
       
       - name: Setup Github Pages
         uses: actions/configure-pages@v4
 
       - name: Upload Project to Github Pages
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'docs/wwwroot'
 
       - name: Deploy to Github Pages
         id: deployment
