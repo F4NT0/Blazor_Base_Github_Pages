@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\obj\\Debug\\net8.0\\compressed\\omg88bym13.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorDeploy.styles.css",
+      "PackagePath": "staticwebassets\\BlazorDeploy.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\Gabriel_Stundner\\source\\repos\\DOTNET_EXAMPLES\\BlazorDeploy\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorDeploy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorDeploy.props",
+      "PackagePath": "build\\BlazorDeploy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorDeploy.props",
+      "PackagePath": "buildMultiTargeting\\BlazorDeploy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorDeploy.props",
+      "PackagePath": "buildTransitive\\BlazorDeploy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
